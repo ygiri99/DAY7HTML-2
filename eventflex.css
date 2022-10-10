@@ -1,5 +1,5 @@
 .main {
-    width: 75%;
+    width:fit-content;
     border: 2px solid black;
     display: flex;
     flex-wrap: wrap;
